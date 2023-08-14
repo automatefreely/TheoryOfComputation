@@ -117,6 +117,7 @@ int main()
 
 
     // take input of string untill user enter nothing
+    printf("To stop entering strings, enter nothing\n");
     while(1){
         char str[100];
         printf("enter a string: ");
