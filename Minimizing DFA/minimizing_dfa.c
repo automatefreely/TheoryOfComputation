@@ -9,6 +9,8 @@
 //              Then the user is asked to enter the final states.
 //              then the program prints the minimized DFA table.
 
+// To test: 7 2 1 2 5 4 6 4 0 4 4 4 5 5 6 6 2 5 6
+
 #include <stdio.h>
 #include <stdlib.h>
 
