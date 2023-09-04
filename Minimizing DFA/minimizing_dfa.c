@@ -1,6 +1,6 @@
-// Author: Swaroop Dora | Anand Raj
+// Author: Swaroop Dora (Automate Freely)
 // Github: https://github.com/automatefreely |
-// Email: automatefreely@gmail.com / iit2022052@iiita.ac.in / iit2022047@iiita.ac.in
+// Email: automatefreely@gmail.com / iit2022052@iiita.ac.in
 
 // Description: This program takes an DFA and minimizes it.
 //              The DFA is represented as a table with states as rows and symbols as columns.
